@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vijayakumar J
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on Projects
+- 💞️ I’m a full stack developer with a skill sets in Java8, Javascript and React JS
+- 👀 I’m interested in Coding and Problem Solving
+- 🌱 I’m currently learning AWS
 - 📫 How to reach me @ +91 9585793939 or vijayakumarj.official@gmail.com
 
 <!---
